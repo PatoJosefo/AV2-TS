@@ -21,6 +21,7 @@ Na AV2 produzi a parte do front-end do projeto, ainda sem funcionalidades.
 - Aeronaves
 - Funcionários
 - Relatórios
+- gaviaoarqueiropiorvingador
 
 ## 💻 Tecnologias
 
